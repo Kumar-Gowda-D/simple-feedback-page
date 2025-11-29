@@ -72,4 +72,8 @@ To connect a domain, navigate to Project > Settings > Domains and click Connect 
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
 
+<<<<<<< HEAD
+#mayur
+=======
 #kumar
+>>>>>>> e7fd99d505902dcbac88faed58337f7291cb4ae2
